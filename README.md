@@ -13,7 +13,8 @@ An end-to-end Power BI business intelligence and executive reporting system engi
 ## 📊 Business Performance Dashboard
 Below is an interactive view of the engineered executive storefront analytics reporting interface:
 
-![Power BI Dashboard View](image_6c5076.jpg)
+![Power BI Dashboard View](<img width="1320" height="737" alt="Screenshot 2026-06-12 213353" src="https://github.com/user-attachments/assets/1b78cc32-07b2-4f66-b943-c1cf0e755d1f" />
+)
 *Figure 1: Finished Power BI Executive Analytics Interface showcasing core KPI strips, operational timelines, regional matrices, and category breakdowns.*
 
 ---
